@@ -73,11 +73,8 @@
             echo "<div class='alert alert-danger'>No records found.</div>";
            }
            ?>
-
-          
            
        </div>
-
        <script src="js/jquery-2.0.0.min.js"></script>
        <script src="js/bootstrap.js"></script>
 
