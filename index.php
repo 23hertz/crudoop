@@ -28,7 +28,7 @@
              echo "<div class='alert alert-success'>Record was deleted</div>";
            }
            ?>
-
+           
            <?php
            $query = "SELECT id, username, email, addresss FROM addresses ORDER BY id DESC";
            $stmt = $con->prepare($query);
