@@ -1,8 +1,8 @@
 <?php
-$host = "xlf3ljx3beaucz9x.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$db_name = "u56z3i0lke85iigj";
-$username = "o3qbj4q55et5icd2";
-$password = "cp1g60bf1h8ey8f3";
+$host = "remotemysql.com";
+$db_name = "qh0WYOuiW3";
+$username = "qh0WYOuiW3";
+$password = "A5id5GyPcq";
 
 try {
     $con = new PDO("mysql:host={$host};dbname={$db_name}",$username,$password);
